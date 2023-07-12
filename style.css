@@ -10,8 +10,9 @@
   height: 50vh;
   padding: 10px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: baseline;
 }
 
 .flex > div {
